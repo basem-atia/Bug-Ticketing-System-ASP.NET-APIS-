@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/BugTicketingSystem.APIs/Attachments/ce66d99b-a171-445d-b2a7-30fc399412ff/cecd46aa-5e2e-4d9f-99ee-c8d9ba388630.3okc9l8fjp.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Attachments\ce66d99b-a171-445d-b2a7-30fc399412ff\cecd46aa-5e2e-4d9f-99ee-c8d9ba388630.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3okc9l8fjp"},{"Name":"integrity","Value":"sha256-Xa\u002BrPFTKpgDBw1dEFlkQLme8E/SA2U4G/AXSWdGOpHE="},{"Name":"label","Value":"_content/BugTicketingSystem.APIs/Attachments/ce66d99b-a171-445d-b2a7-30fc399412ff/cecd46aa-5e2e-4d9f-99ee-c8d9ba388630.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"139798"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022Xa\u002BrPFTKpgDBw1dEFlkQLme8E/SA2U4G/AXSWdGOpHE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 26 Apr 2025 23:54:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BugTicketingSystem.APIs/Attachments/ce66d99b-a171-445d-b2a7-30fc399412ff/cecd46aa-5e2e-4d9f-99ee-c8d9ba388630.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Attachments\ce66d99b-a171-445d-b2a7-30fc399412ff\cecd46aa-5e2e-4d9f-99ee-c8d9ba388630.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Xa\u002BrPFTKpgDBw1dEFlkQLme8E/SA2U4G/AXSWdGOpHE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"139798"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022Xa\u002BrPFTKpgDBw1dEFlkQLme8E/SA2U4G/AXSWdGOpHE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 26 Apr 2025 23:54:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

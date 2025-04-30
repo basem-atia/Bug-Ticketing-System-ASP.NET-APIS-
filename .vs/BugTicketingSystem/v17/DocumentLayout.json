@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\iti\\mvc \u0026 api\\api project\\BugTicketingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62F43EBB-3B24-4725-9349-857F25C765BC}|BugTicketingSystem.APIs\\BugTicketingSystem.APIs.csproj|e:\\iti\\mvc \u0026 api\\api project\\bugticketingsystem\\bugticketingsystem.apis\\controllers\\bugscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F43EBB-3B24-4725-9349-857F25C765BC}|BugTicketingSystem.APIs\\BugTicketingSystem.APIs.csproj|solutionrelative:bugticketingsystem.apis\\controllers\\bugscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737D8235-05D6-41E5-BD4C-33723CAC976C}|BugTicketingSystem.BL\\BugTicketingSystem.BL.csproj|e:\\iti\\mvc \u0026 api\\api project\\bugticketingsystem\\bugticketingsystem.bl\\managers\\bugs\\bugmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737D8235-05D6-41E5-BD4C-33723CAC976C}|BugTicketingSystem.BL\\BugTicketingSystem.BL.csproj|solutionrelative:bugticketingsystem.bl\\managers\\bugs\\bugmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F43EBB-3B24-4725-9349-857F25C765BC}|BugTicketingSystem.APIs\\BugTicketingSystem.APIs.csproj|e:\\iti\\mvc \u0026 api\\api project\\bugticketingsystem\\bugticketingsystem.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F43EBB-3B24-4725-9349-857F25C765BC}|BugTicketingSystem.APIs\\BugTicketingSystem.APIs.csproj|solutionrelative:bugticketingsystem.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BugManager.cs",
+              "DocumentMoniker": "E:\\iti\\mvc \u0026 api\\api project\\BugTicketingSystem\\BugTicketingSystem.BL\\Managers\\Bugs\\BugManager.cs",
+              "RelativeDocumentMoniker": "BugTicketingSystem.BL\\Managers\\Bugs\\BugManager.cs",
+              "ToolTip": "E:\\iti\\mvc \u0026 api\\api project\\BugTicketingSystem\\BugTicketingSystem.BL\\Managers\\Bugs\\BugManager.cs",
+              "RelativeToolTip": "BugTicketingSystem.BL\\Managers\\Bugs\\BugManager.cs",
+              "ViewState": "AgIAAM4AAAAAaGZmZmb2v9EAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:58:10.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BugsController.cs",
+              "DocumentMoniker": "E:\\iti\\mvc \u0026 api\\api project\\BugTicketingSystem\\BugTicketingSystem.APIs\\Controllers\\BugsController.cs",
+              "RelativeDocumentMoniker": "BugTicketingSystem.APIs\\Controllers\\BugsController.cs",
+              "ToolTip": "E:\\iti\\mvc \u0026 api\\api project\\BugTicketingSystem\\BugTicketingSystem.APIs\\Controllers\\BugsController.cs",
+              "RelativeToolTip": "BugTicketingSystem.APIs\\Controllers\\BugsController.cs",
+              "ViewState": "AgIAAD8AAACAmZmZmZkrwEoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:55:09.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\iti\\mvc \u0026 api\\api project\\BugTicketingSystem\\BugTicketingSystem.APIs\\Program.cs",
+              "RelativeDocumentMoniker": "BugTicketingSystem.APIs\\Program.cs",
+              "ToolTip": "E:\\iti\\mvc \u0026 api\\api project\\BugTicketingSystem\\BugTicketingSystem.APIs\\Program.cs",
+              "RelativeToolTip": "BugTicketingSystem.APIs\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:44:39.362Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net9.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<UserSecretsId>559986ad-80b0-4cd2-9d1d-c1ec034b13f9</UserSecretsId>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\BugTicketingSystem.DAL\BugTicketingSystem.DAL.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="Dtos\Role\" />
+		<Folder Include="Dtos\FileAttachment\" />
+		<Folder Include="Exceptions\" />
+		<Folder Include="Managers\Bugs_User\" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+		<PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.11.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.4" />
+	</ItemGroup>
+
+</Project>

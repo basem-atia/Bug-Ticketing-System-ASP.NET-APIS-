@@ -1,0 +1,22 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Attachments\ce66d99b-a171-445d-b2a7-30fc399412ff\cecd46aa-5e2e-4d9f-99ee-c8d9ba388630.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BugTicketingSystem.APIs</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BugTicketingSystem.APIs</BasePath>
+      <RelativePath>Attachments/ce66d99b-a171-445d-b2a7-30fc399412ff/cecd46aa-5e2e-4d9f-99ee-c8d9ba388630.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>3okc9l8fjp</Fingerprint>
+      <Integrity>Xa+rPFTKpgDBw1dEFlkQLme8E/SA2U4G/AXSWdGOpHE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Attachments\ce66d99b-a171-445d-b2a7-30fc399412ff\cecd46aa-5e2e-4d9f-99ee-c8d9ba388630.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

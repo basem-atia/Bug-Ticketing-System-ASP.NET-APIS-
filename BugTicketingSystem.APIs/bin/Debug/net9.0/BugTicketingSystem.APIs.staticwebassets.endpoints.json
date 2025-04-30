@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "Attachments/ce66d99b-a171-445d-b2a7-30fc399412ff/cecd46aa-5e2e-4d9f-99ee-c8d9ba388630.3okc9l8fjp.pdf",
+      "AssetFile": "Attachments/ce66d99b-a171-445d-b2a7-30fc399412ff/cecd46aa-5e2e-4d9f-99ee-c8d9ba388630.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "139798"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xa+rPFTKpgDBw1dEFlkQLme8E/SA2U4G/AXSWdGOpHE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 23:54:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3okc9l8fjp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xa+rPFTKpgDBw1dEFlkQLme8E/SA2U4G/AXSWdGOpHE="
+        },
+        {
+          "Name": "label",
+          "Value": "Attachments/ce66d99b-a171-445d-b2a7-30fc399412ff/cecd46aa-5e2e-4d9f-99ee-c8d9ba388630.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/ce66d99b-a171-445d-b2a7-30fc399412ff/cecd46aa-5e2e-4d9f-99ee-c8d9ba388630.pdf",
+      "AssetFile": "Attachments/ce66d99b-a171-445d-b2a7-30fc399412ff/cecd46aa-5e2e-4d9f-99ee-c8d9ba388630.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "139798"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xa+rPFTKpgDBw1dEFlkQLme8E/SA2U4G/AXSWdGOpHE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 23:54:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xa+rPFTKpgDBw1dEFlkQLme8E/SA2U4G/AXSWdGOpHE="
+        }
+      ]
+    }
+  ]
+}
