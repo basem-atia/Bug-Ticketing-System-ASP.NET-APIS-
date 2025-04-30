@@ -179,4 +179,5 @@ All endpoints return a consistent response format (**General Result**) and are d
 
 ### 1. Clone the repository
 
-- git clone https://github.com/your-username/bug-ticketing-system.git
+- git clone https://github.com/basem-atia/Bug-Ticketing-System-ASP.NET-APIS-.git
+
